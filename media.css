@@ -1,0 +1,22 @@
+
+p{
+    font-size: 1rem;
+    line-height: 1.7%;
+}
+
+/* media query syntax
+@media (expr){
+    style
+ }
+  */
+  @media (min-width:600){
+    p{
+        font-size: 1.2rem;
+    }
+  }
+  @media (min-width:800){
+    p{
+        font-size: 1.5rem;
+        line-height: 1.5;
+    }
+  } 

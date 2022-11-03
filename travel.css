@@ -1,0 +1,7 @@
+.image{
+    background-attachment: fixed;
+    background-image:url("https://imgs.search.brave.com/nIvli0vVrR0e2o1tbBMRPc8DfVfTwGyKpEPX9cvfW6s/rs:fit:1200:1200:1/g:ce/aHR0cDovL3d3dy5w/aXhlbHN0YWxrLm5l/dC93cC1jb250ZW50/L3VwbG9hZHMvMjAx/Ni8wOC9CZXN0LVRy/YXZlbC1QaWN0dXJl/cy1IRC5qcGc") ;
+    width: 10000px;
+    height: 500px;
+    background-size: cover;
+}
